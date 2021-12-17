@@ -1,0 +1,250 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+}
+.logodiv{
+    display: flex;
+}
+.logo{
+    height: 50px;
+    width: 126p;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.world{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 25px;
+    font-size: 13px;
+}
+.text-world{
+    display: flex;
+    margin-left: 25px;
+}
+.followdiv{
+    margin-left: 50%;
+    margin-top: 30px;
+}
+.follow{
+    color: white;
+    font-size: 11px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+.bgimage{
+    cursor: pointer;
+    width: 100%;
+    height: 500px;
+    background-image: url(photos/boy.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.readdiv{
+    text-align: center;
+    /* margin-top: 50%; */
+    position: relative;
+}
+.read{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    font-size: 30px;   
+}
+.btn{
+    background-color: red;
+    height: 50px;
+    width: 120px;
+    font-weight: bold;
+    position: absolute;
+    top: 390px;
+    left: 720px;
+    cursor: pointer;
+}
+.section{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.productdiv{
+    width: 30%;
+    height: 400px;
+}
+.product{
+    margin-left: 90px;
+    margin-top: 135px;
+    color: black;
+    font-family: Bud Bold,Oswald,Impact,sans-serif;
+}
+.product1{
+    margin-left: 110px;
+    margin-top: -20px;
+    color: red;
+    font-family: Bud Bold,Oswald,Impact,sans-serif;
+}
+.btn1{
+    background-color: red;
+    height: 50px;
+    width: 180px;
+    margin-left: 80px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.items{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 110px;
+    margin-left: 30px;   
+}
+.bud{
+    margin-left: 30px;
+    color: red;
+    text-align: center;
+}
+.section2{
+    display: flex;
+    width: 100%;
+    height: 800px;
+}
+.historydiv{
+    cursor: pointer;
+    width: 50%;
+    height: 550px;
+    background-image: url(photos/bud3_.jpg);
+    background-size: 509.5px 580px;
+    background-repeat: no-repeat;
+    margin-left: 170px;
+}
+.history{
+    color: white;
+    font-weight: bold;
+    margin-left: 175px;
+    margin-top: 250px;
+}
+.historydiv input{
+    padding: 15px 40px;
+    background-color: brown;
+    cursor: pointer;
+    margin-left: 210px;
+}
+.electricitydiv{
+    cursor: pointer;
+    width: 50%;
+    height: 550px;
+    background-image: url(photos/BUD_TIA.jpg);
+    background-size: 509.5px 550px;
+    background-repeat: no-repeat;
+    margin-right: 160px;
+}
+.electricity{
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 220px;
+}
+.electricitydiv input{
+    padding: 15px 40px;
+    background-color: brown;
+    margin-left: 175px;
+    cursor: pointer;
+}
+.section3{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    background-color: #CF0A2C;
+}
+.last{
+    height: 300px;
+    width: 20%;
+    margin-left: 160px;
+    margin-top: 125px;
+
+}
+.logo1{
+    height: 110px;
+    width: 200px;
+    margin-left: 30px;
+}
+.beer{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 13px;
+}
+.minor{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-top: 35px;
+}
+.us{
+    color: white;
+    font-size: 18px;
+    margin-top: 90px;
+}
+.linkdiv{
+    display: flex;
+}
+.link{
+    height: 25px;
+}
+.link1{
+    height: 25px;
+    width: 30px;
+    margin-left: 35px;
+}
+.better{
+    width: 60%;
+    margin-top: 300px;
+}
+.world1{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.section4{
+    width: 100%;
+    height: 100px;
+    background-color: #6b0012;
+    padding: 50px;
+}
+.legal{
+    color: white;
+    margin-left: 150px;
+}
+.settings{
+    display: flex;
+}
+.privacy{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 150px;
+}
+.privacy1{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 70px;
+}
+.privacy2{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 70px;
+    font-size: 12px;
+}
